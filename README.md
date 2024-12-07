@@ -23,14 +23,14 @@
 
 **Installation Steps**
 1. Clone the repository:
-  - git clone github.com/therealrichardthomas/Chat-App
-  - cd Chat-App
+    - git clone github.com/therealrichardthomas/Chat-App
+    - cd Chat-App
 
 2. Install Dependencies
-  - npm install socket.io
+    - npm install socket.io
 
 3. Start the server:
-  - node index.js
+    - node index.js
 
 4. Open index.html in your web browser or serve it using a local server.
 
