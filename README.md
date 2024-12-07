@@ -26,7 +26,7 @@
   - git clone github.com/therealrichardthomas/Chat-App
   - cd Chat-App
 
-2, Install Dependencies
+2. Install Dependencies
   - npm install socket.io
 
 3. Start the server:
